@@ -3,6 +3,8 @@
 
 *IMPORTANTE: Esta é uma atividade prática de estudo-dirigido. Somente inicie-a usando o VSCode e praticando no editor de códigos.*
 
+Quando se fala em problemas de programação, o ato de programar em si não é difícil. No entanto, tornar o código adequado para manutenção ainda é um desafio enfrentado por muitas equipes e desenvolvedores. A programação orientada a objetos surgiu como padrão para ajudar na prevenção deste problema.
+
 A Programação Orientada a Objetos (POO) visa ampliar o conceito de variáveis compostas, como os vetores (ou matrizes), introduzindo uma maneira mais complexa de estruturar e organizar dados.
 
 ### Vetores:
