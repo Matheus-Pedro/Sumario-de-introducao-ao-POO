@@ -1,5 +1,5 @@
 
-#**Introdução à Programação Orientada a Objetos (POO) com Javascript**
+#Introdução à Programação Orientada a Objetos (POO) com Javascript
 
 *IMPORTANTE: Esta é uma atividade prática de estudo-dirigido. Somente inicie-a usando o VSCode e praticando no editor de códigos.*
 
