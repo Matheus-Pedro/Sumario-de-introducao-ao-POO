@@ -80,6 +80,8 @@ Agora, `meuCarro` é uma instância da classe `Carro`, e podemos acessar suas pr
 ```js
 console.log(meuCarro.marca); // Saída: "Volvo"
 ```
+### Operador this
+Então, this.marca é a representação, ou modelo, ao invés de se colocar uma atribuição preenchida já com o conteúdo. Ou seja, se tivesse três objetos inicializados, usa o this no lugar de inicializar com o próprio conteúdo.
 
 ### Templates de Classes:
 
